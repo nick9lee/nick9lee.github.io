@@ -1,0 +1,3 @@
+- [Home](/)
+- **Notes**
+  - [Unemployment Trip Ideas](UnemploymentTripIdeas/general.md)

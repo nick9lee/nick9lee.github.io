@@ -1,345 +1,426 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Hi there! Welcome to my website.">
-        
-        <link rel="stylesheet" type="text/css" href="vendors/CSS/normalize.css">
-        <link rel="stylesheet" type="text/css" href="vendors/CSS/Grid.css">
-        <link rel="stylesheet" type="text/css" href="vendors/CSS/ionicons.min.css">
-        <link rel="stylesheet" type="text/css" href="resources/CSS/style.css">
-        <link rel="stylesheet" type="text/css" href="resources/CSS/queries.css">
-        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&display=swap" rel="stylesheet"> <!-- fonts -->
-        
-        <title>Nick Lee</title>
 
-        <link rel="apple-touch-icon" sizes="180x180" href="/resources/faviconsV2/apple-touch-icon.png">
-        <link rel="icon" sizes="192x192" href="/resources/faviconsV2/android-chrome-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/resources/faviconsV2/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/resources/faviconsV2/favicon-16x16.png">
-        <link rel="manifest" href="/resources/faviconsV2/site.webmanifest">
-        <link rel="mask-icon" href="/resources/faviconsV2/safari-pinned-tab.svg" color="#5bbad5">
-        <meta name="msapplication-TileColor" content="#da532c">
-        <meta name="msapplication-config" content="/resources/faviconsV2/browserconfig.xml">
-        <meta name="theme-color" content="#ffffff">
-        
-    </head>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Hi there! Welcome to my website.">
 
-    <body>
-        <header>
-            <nav>
-                <div class="row">
-                    <ul class="main-nav js--main-nav">
-                        <li><a class="js--scroll-to-about-me" href="#">About me</a></li>
-                        <li><a class="js--scroll-to-experience" href="#">Experience</a></li>
-                        <li><a class="js--scroll-to-projects" href="#">Projects</a></li>
-                        <li><a class="js--scroll-to-contacts" href="#">Contacts and links</a></li>
+    <link rel="stylesheet" type="text/css" href="vendors/CSS/normalize.css">
+    <link rel="stylesheet" type="text/css" href="vendors/CSS/Grid.css">
+    <link rel="stylesheet" type="text/css" href="vendors/CSS/ionicons.min.css">
+    <link rel="stylesheet" type="text/css" href="resources/CSS/style.css">
+    <link rel="stylesheet" type="text/css" href="resources/CSS/queries.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,300&display=swap"
+        rel="stylesheet"> <!-- fonts -->
 
-                    </ul>
-                    <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
-                </div>
-            </nav>
-            <div class="hero-text-box">
-                <h1>Nicholas Lee</h1>
-                <a class="btn btn-full" href="https://nick9lee.github.io/resources/Resume_NicholasLee_Jan2026.pdf" target="_blank" >
-                    Resume
-                </a>
-                
-                <a class="btn btn-ghost" href="https://github.com/nick9lee" target="_blank">GitHub</a>
-            </div>
-        </header>
-        
-        
-        <a id="about"></a>
-        <section class="about-me js--section-features js--about-me">
-            <div class="row">
-                <h2>About me</h2>
-            </div>
-            <div class="row about-me-description">
-                <p>Hi, I'm Nick. <br> I'm a Software Engineer at Amazon based in Vancouver. I graduated from the University of Calgary with a bachelor's degree in Software Engineering. I've always been fascinated by how things are made, which led me to pursue engineering. Now as a software engineer, I get to build and create solutions that make an impact.</p>
-            </div>
-        </section>
-        
-        <a id="experience"></a>
-        <section class="experience js--experience">
-            <div class="row">
-                <h2>Experience</h2>
-            </div>
-            
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <h3>Software Development Engineer</h3>
-                        <h5>July 2023 - Present</h5>
-                        <p class="amazon-intern-des">
-                            After a great internship experience, I returned to Amazon for a full-time position.
-                            
-                            <br><br>Currently, I work on the Fees team, which is responsible for setting and processing all fees for Amazon Stores. My team builds the web application and configuration store that manages $25B+ in fee changes each year. The configuration store serves as the knowledge
-                            base for execution services, serving 2.5B+ daily requests.
-                            
-                            <br><br>One of my favorite projects was building a testing framework that lets us safely test fee changes in a sandbox environment before they go live. I also got to work as the sole North American engineer coordinating with product managers in Europe and engineers in China to launch a new fee that ended up generating $23M in additional revenue. More recently, I built a GenAI-powered Slack bot with two other engineers that answers questions about seller fees. It won our team hackathon and placed in the top 10 at the larger FBA GenAI Fair.
-                            
-                            <br><br>I'm also part of the on-call rotation, which means I get paged when things break in production. It's taught me a lot about diagnosing issues quickly and building more resilient systems.
-                    </div>
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <img src="resources/images/AmazonLogo.png" alt="amazon logo" class="amazon-logo-second">
-                </div>
-            </div>
-            
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <h3>Software Development Engineering Intern</h3>
-                        <h5>May 2022 - August 2022</h5>
-                        <p class="amazon-intern-des">I spent the summer in Vancouver as part of the Automated Profitability Management (APM) - Supplier Contract Optimization (SCO) team, working on Automated Vendor Negotiations (AVN). This tool is used by Amazon Vendor Managers to negotiate with vendors and sends 1000+ emails daily, with volume increasing during annual vendor negotiations. 
-                            
-                        <br><br>My summer project involved designing and developing a new generic, reusable email service to replace the existing implementation. After 2 weeks of design and 4 weeks of development, I delivered a service that could send emails and collect detailed email metrics. 
-                            
-                        <br><br>Beyond coding, I became a regular at Amazon's pickup soccer group and explored Vancouver with new and old friends. Overall, it was an incredible experience working with a fantastic team in a great city.</p>
-                    </div>
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <img src="resources/images/AmazonLogo.png" alt="amazon logo" class="amazon-logo">
-                </div>
-            </div>
-            
-            
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <img src="resources/images/pip_the_orange.png" alt="orange mascot" class="pip-the-orange">
-                        <h3>Software Developer Intern</h3>
-                        <h5>May 2021 - April 2022</h5>
-                        <p class="arcurve-intern-des">For my first role in the software industry, I worked at Arcurve developing a full-stack web application for monitoring, visualizing, and predicting gas delivery information.
-                            
-                        <br><br>This project provided an excellent introduction to industry software, featuring a mature, well-architected codebase with complex technical challenges. I was fortunate to work with two incredible mentors who taught me lots about best coding practices and the Software Development Life Cyle.
-                        
-                        <br><br>Beyond technical work, I participated in a Community Social Responsibility (CSR) project with fellow interns. We created an orange-flavored kombucha to sell to Arcurvians and friends, with all proceeds going to the Calgary Women's Emergency Shelter. The orange pictured above is Pip, our kombucha mascot. Through this initiative, we raised over $4000 for the shelter.
-                            
-                        <br><br>I'm incredibly grateful that my first software development role was at Arcurve. Not only did I learn tremendously about software engineering, but Arcurve was exceptionally supportive of my growth. I highly recommend Arcurve to any aspiring software developers.
-                    </div>
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <img src="resources/images/ArcurveBigLogo.png" alt="arcurve logo" class="arcurve-logo">
-                </div>
-            </div>
-            
-            
-        </section>
-        
-        <a id="projects"></a>
-        <section class="projects js--projects">
-            <div class="row">
-                <h2>Personal Projects</h2>
-            </div>
+    <title>Nick Lee</title>
 
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <h3>r/Piazza</h3>
-                        <p>
-                            Our team developed a distributed version of r/place for our distributed systems course, a collaborative online canvas where users design pixel art on a 200x200 tile grid. The project focused on replication, fault tolerance, data consistency, and synchronization.
-                            We implemented two proxy servers (one as backup) and a network of three main servers with attached databases. Clients were routed using a random algorithm for optimal load balancing. <br><br>
+    <link rel="apple-touch-icon" sizes="180x180" href="/resources/faviconsV2/apple-touch-icon.png">
+    <link rel="icon" sizes="192x192" href="/resources/faviconsV2/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/resources/faviconsV2/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/resources/faviconsV2/favicon-16x16.png">
+    <link rel="manifest" href="/resources/faviconsV2/site.webmanifest">
+    <link rel="mask-icon" href="/resources/faviconsV2/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/resources/faviconsV2/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
 
-                            Each server featured automatic restart processes for enhanced reliability. During startup, servers checked for other live servers and synchronized their databases to ensure up-to-date replication. We employed Lamport's timestamps for data consistency across all replicated databases. 
-                            Built with React, Node.js, MongoDB, AWS EC2, Socket.io, and Nginx, this architecture delivered a highly reliable, fault-tolerant distributed system. One could say it was very over-engineered for the number of users it saw!
-                        </p>
-                    </div>
-                    
-                    <a class="btn btn-ghost" href="https://github.com/nick9lee/rPiazza">view code</a> 
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <img src="resources/images/PiazzaArchitecture.png" alt="" class="piazza-architecture">
-                    <video controls autoplay class="piazza-vid" width="500" height="350" src="resources/images/PiazzaRecording.mp4"></video>
-                </div>
-            </div>
+</head>
 
+<body>
+    <header>
+        <nav>
             <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <img src="resources/images/RoswellTextileLogoBlack.png" alt="roswell" class="roswell-icon">
-                        <h3>Inline Air Permeability Inspection System</h3>
-                        <p>
-                            For my final-year Capstone project, I collaborated with a multidisciplinary team of two mechanical and two software engineers. 
-                            We partnered with Roswell Textiles, an industry leader in nonwoven technologies, to develop an inline air permeability inspection system prototype. 
-                            This system enhanced their existing inspection method—which only tested small samples—by enabling continuous testing throughout production. 
-                            This allowed Roswell Textiles to provide clients with comprehensive data on textile rolls, ensuring optimal performance in critical applications like medical equipment and face masks. <br><br>
-
-                            Our team successfully designed and built the prototype (pictured in the top right). 
-                            The software architecture used a Raspberry Pi to read sensor data and transmit it to an Azure Function, which stored the information in a CosmosDB database. 
-                            The Raspberry Pi also enabled real-time data streaming to a GUI via WebSockets, as shown in the video. The images show the Raspberry Pi with a custom circuit board and the CAD design of the prototype. <br><br>
-
-                            Working on this project was a refreshing change of pace, going into the warehouse to manufacture the system was an awesome challenge.
-                            It served as an excellent culmination of my engineering journey.
-                        </p>
-                    </div>
-                    
-                    <a class="btn btn-ghost" href="http://nick9lee.me/CapstoneDesignFair/">additional info</a> 
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <img src="resources/images/CapstoneCompilation.png" alt="" class="capstone-compilation">
-                    <video controls autoplay class="capstone-ui-vid" width="500" height="400" src="resources/images/CapstoneUI-video-short.mov"></video>
-                </div>
-            </div>
-
-
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <img src="resources/images/plus15logo.png" alt="pic of plus 15 icon" class="app-icons">
-                        <h3>Plus 15</h3>
-                        <p>iOS application built in Swift to help Calgarians navigate 16km of indoor hallways covering downtown Calgary. This app utilizes APIs from Calgary Open Data to help users explore downtown while staying warm and discover nearby lunch spots.</p>
-                    </div>
-                    
-                    <a class="btn btn-ghost" href="https://github.com/nick9lee/Plus15Placeholder">view code</a> 
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <video controls autoplay class="plus15-demo-vid" width="200" height="400" src="resources/images/Plus15DemoVid.MP4"></video>
-                </div>
-            </div>
-
-            
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <img src="resources/images/iconSearchAlgoVisualizer.png" alt="pic of currencyconverter icon" class="app-icons">
-                        <h3>Search Algorithm Visualizer</h3>
-                        <p>iOS application built in Swift to visualize Breadth First Search, Depth First Search, and A* pathfinding algorithms. Users can tap cells to modify an adjacency matrix, then run the chosen algorithm to see it traverse the grid in real-time. Visited cells are colored as the algorithm executes, providing an interactive way to understand how these algorithms work. Feel free to clone the repo and explore!</p>
-                    </div>
-                    
-                    <a class="btn btn-ghost" href="https://github.com/nick9lee/SearchAlgoVisualizerV2">view code</a> 
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <video controls autoplay class="search-algo-vid" width="200" height="400" src="resources/images/SearchAlgoDemo.mov"></video>
-                </div>
-            </div>
-            
-            
-            
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <h3>3D EEG Data Visualizer</h3>
-                        <h5>NeuroNexus 2020 (Hackathon)</h5>
-                        <p>Over 2 months, our team of 7 created a real-time 3D EEG data visualizer. The concept was provided by Dr. Emma Towlson, but the design and implementation were entirely up to us. I focused on the 3D visualization component using the three.js library. A highlight of this project was spending time at the Alberta Children's Hospital, where I learned to operate EEG equipment and collected real brain activity data for testing our visualizer.</p>
-                    </div>
-                    
-                    <a class="btn btn-ghost" href="https://github.com/braedyn-au/DynamicNetworkVisualization">view code</a> 
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <video controls autoplay class="neuro-nexus-demo-vid" width="500" height="400" src="resources/images/neuroNexusdemo.mov"></video>
-                </div>
-            </div>
-            
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <img src="resources/images/iconProgrammerEyes.png" alt="pic of programmer eyes icon" class="app-icons">
-                        <h3>Programmer Eyes 202020</h3>
-                        <p>WatchOS application written in Swift designed for programmers and anyone who uses a computer all day. This app reminds users to follow the 20-20-20 rule: every 20 minutes, look at least 20 feet away for 20 seconds to reduce eye strain.</p>
-                    </div>
-                    
-                    <a class="btn btn-ghost" href="https://github.com/nick9lee/ProgrammerEyes">view code</a> 
-                </div>
-                
-                <div class="col span-1-of-2">
-                    <img src="resources/images/ProgrammerEyesV2.png" alt="pic of programmer eyes in watch" class="programmerEyes-screen">
-                </div>
-            </div>
-            
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <h3>Student Registration System</h3>
-                        <p>A Java application that emulates a student registration system. Features include enrolling in classes stored in a MySQL database, searching for classes, disenrolling from classes, and viewing class information such as enrollment numbers. The program uses client-server architecture and is multithreaded to accommodate multiple concurrent users.</p>
-                    </div>
-                    
-                    <a class="btn btn-ghost" href="https://github.com/nick9lee/StudentRegistrationSystemV2">view code</a>
-        
-                </div>
-                <div class="col span-1-of-2">
-                    <img src="resources/images/studentRegistration.png" alt="pic of student registration system" class="studentRegistration-screen">
-                </div>
-            </div>
-            
-            <div class="row">
-                <div class="col span-1-of-2 project-des-box">
-                    <div class="project-description">
-                        <h3>Tic Tac Toe</h3>
-                        <p>A text-based tic-tac-toe game featuring 4 different play modes: human vs. human, against a random AI, against a defensive AI that blocks opponent moves, or against a strategic AI that actively pursues victory while defending against threats.</p>
-                    </div>
-                    
-                    <a class="btn btn-ghost" href="https://github.com/nick9lee/TicTacToe">view code</a>
-        
-                </div>
-                <div class="col span-1-of-2">
-                    <img src="resources/images/smaller-tictactoe.PNG" alt="pic of tictactoe in console" class="tictactoe-screen">
-                </div>
-            </div>
-        </section>
-        
-        
-        <a id="contacts"></a>
-        <section class="contacts-and-links js--contacts">
-            <div class="row">
-                <h2>Contacts and Links</h2>
-            </div>
-            <div class="row">
-                <ul>
-                    <li>
-                        <div class="linkedin">
-                            <a href="https://www.linkedin.com/in/nick-lee-a75980139/" target="_blank"><i class="ion-social-linkedin-outline"></i></a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="email">
-                            <a href="mailto:nicholas9lee@gmail.com" target="_blank"><i class="ion-ios-email"></i></a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="github">
-                            <a href="https://github.com/nick9lee" target="_blank"><i class="ion-social-github"></i></a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="resume">
-                            <a href="https://nick9lee.github.io/resources/Resume_NicholasLee_Jan2026.pdf" target="_blank"><i class="ion-document-text"></i></a>
-                        </div>
-                    </li>
+                <ul class="main-nav js--main-nav">
+                    <li><a class="js--scroll-to-about-me" href="#">About me</a></li>
+                    <li><a class="js--scroll-to-experience" href="#">Experience</a></li>
+                    <li><a class="js--scroll-to-projects" href="#">Projects</a></li>
+                    <li><a class="js--scroll-to-contacts" href="#">Contacts and links</a></li>
+                    <li><a href="notes/">Notes</a></li>
                 </ul>
+                <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
             </div>
-        </section>
-        
-        <footer>
-            <div class="row">
-                <div class="col span-1-of-2">
-                    <p></p>
-                </div>
-                <div class="col span-1-of-4">
-                    
-                </div>
-                <div class="col span-1-of-4">
-                    <p class="right-message">Updated January 2026</p>
+        </nav>
+        <div class="hero-text-box">
+            <h1>Nicholas Lee</h1>
+            <a class="btn btn-full" href="https://nick9lee.github.io/resources/resumes/Resume_NicholasLee_July2026.pdf"
+                target="_blank">
+                Resume
+            </a>
+
+            <a class="btn btn-ghost" href="https://github.com/nick9lee" target="_blank">GitHub</a>
+        </div>
+    </header>
+
+
+    <a id="about"></a>
+    <section class="about-me js--section-features js--about-me">
+        <div class="row">
+            <h2>About me</h2>
+        </div>
+        <div class="row about-me-description">
+            <p>Hi, I'm Nick. <br> I'm a Software Engineer at Amazon based in Vancouver. I graduated from the University
+                of Calgary with a bachelor's degree in Software Engineering. I've always been fascinated by how things
+                are made, which led me to pursue engineering. Now as a software engineer, I get to build and create
+                solutions that make an impact.</p>
+        </div>
+    </section>
+
+    <a id="experience"></a>
+    <section class="experience js--experience">
+        <div class="row">
+            <h2>Experience</h2>
+        </div>
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <h3>Software Development Engineer</h3>
+                    <h5>July 2023 - Present</h5>
+                    <p class="amazon-intern-des">
+                        After a great internship experience, I returned to Amazon for a full-time position.
+
+                        <br><br>Currently, I work on the Fees team, which is responsible for setting and processing all
+                        fees for Amazon Stores. My team builds the web application and configuration store that manages
+                        $25B+ in fee changes each year. The configuration store serves as the knowledge
+                        base for execution services, serving 2.5B+ daily requests.
+
+                        <br><br>One of my favorite projects was building a testing framework that lets us safely test
+                        fee changes in a sandbox environment before they go live. I also got to work as the sole North
+                        American engineer coordinating with product managers in Europe and engineers in China to launch
+                        a new fee that ended up generating $23M in additional revenue. More recently, I built a
+                        GenAI-powered Slack bot with two other engineers that answers questions about seller fees. It
+                        won our team hackathon and placed in the top 10 at the larger FBA GenAI Fair.
+
+                        <br><br>I'm also part of the on-call rotation, which means I get paged when things break in
+                        production. It's taught me a lot about diagnosing issues quickly and building more resilient
+                        systems.
                 </div>
             </div>
-        </footer>
-        
-        
-        <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
-        <script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script src="resources/js/script.js"></script>
-        <script src="vendors/js/jquery.waypoints.min.js"></script>
-    </body>
+
+            <div class="col span-1-of-2">
+                <img src="resources/images/AmazonLogo.png" alt="amazon logo" class="amazon-logo-second">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <h3>Software Development Engineering Intern</h3>
+                    <h5>May 2022 - August 2022</h5>
+                    <p class="amazon-intern-des">I spent the summer in Vancouver as part of the Automated Profitability
+                        Management (APM) - Supplier Contract Optimization (SCO) team, working on Automated Vendor
+                        Negotiations (AVN). This tool is used by Amazon Vendor Managers to negotiate with vendors and
+                        sends 1000+ emails daily, with volume increasing during annual vendor negotiations.
+
+                        <br><br>My summer project involved designing and developing a new generic, reusable email
+                        service to replace the existing implementation. After 2 weeks of design and 4 weeks of
+                        development, I delivered a service that could send emails and collect detailed email metrics.
+
+                        <br><br>Beyond coding, I became a regular at Amazon's pickup soccer group and explored Vancouver
+                        with new and old friends. Overall, it was an incredible experience working with a fantastic team
+                        in a great city.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col span-1-of-2">
+                <img src="resources/images/AmazonLogo.png" alt="amazon logo" class="amazon-logo">
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <img src="resources/images/pip_the_orange.png" alt="orange mascot" class="pip-the-orange">
+                    <h3>Software Developer Intern</h3>
+                    <h5>May 2021 - April 2022</h5>
+                    <p class="arcurve-intern-des">For my first role in the software industry, I worked at Arcurve
+                        developing a full-stack web application for monitoring, visualizing, and predicting gas delivery
+                        information.
+
+                        <br><br>This project provided an excellent introduction to industry software, featuring a
+                        mature, well-architected codebase with complex technical challenges. I was fortunate to work
+                        with two incredible mentors who taught me lots about best coding practices and the Software
+                        Development Life Cyle.
+
+                        <br><br>Beyond technical work, I participated in a Community Social Responsibility (CSR) project
+                        with fellow interns. We created an orange-flavored kombucha to sell to Arcurvians and friends,
+                        with all proceeds going to the Calgary Women's Emergency Shelter. The orange pictured above is
+                        Pip, our kombucha mascot. Through this initiative, we raised over $4000 for the shelter.
+
+                        <br><br>I'm incredibly grateful that my first software development role was at Arcurve. Not only
+                        did I learn tremendously about software engineering, but Arcurve was exceptionally supportive of
+                        my growth. I highly recommend Arcurve to any aspiring software developers.
+                </div>
+            </div>
+
+            <div class="col span-1-of-2">
+                <img src="resources/images/ArcurveBigLogo.png" alt="arcurve logo" class="arcurve-logo">
+            </div>
+        </div>
+
+
+    </section>
+
+    <a id="projects"></a>
+    <section class="projects js--projects">
+        <div class="row">
+            <h2>Personal Projects</h2>
+        </div>
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <h3>r/Piazza</h3>
+                    <p>
+                        Our team developed a distributed version of r/place for our distributed systems course, a
+                        collaborative online canvas where users design pixel art on a 200x200 tile grid. The project
+                        focused on replication, fault tolerance, data consistency, and synchronization.
+                        We implemented two proxy servers (one as backup) and a network of three main servers with
+                        attached databases. Clients were routed using a random algorithm for optimal load balancing.
+                        <br><br>
+
+                        Each server featured automatic restart processes for enhanced reliability. During startup,
+                        servers checked for other live servers and synchronized their databases to ensure up-to-date
+                        replication. We employed Lamport's timestamps for data consistency across all replicated
+                        databases.
+                        Built with React, Node.js, MongoDB, AWS EC2, Socket.io, and Nginx, this architecture delivered a
+                        highly reliable, fault-tolerant distributed system. One could say it was very over-engineered
+                        for the number of users it saw!
+                    </p>
+                </div>
+
+                <a class="btn btn-ghost" href="https://github.com/nick9lee/rPiazza">view code</a>
+            </div>
+
+            <div class="col span-1-of-2">
+                <img src="resources/images/PiazzaArchitecture.png" alt="" class="piazza-architecture">
+                <video controls autoplay class="piazza-vid" width="500" height="350"
+                    src="resources/images/PiazzaRecording.mp4"></video>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <img src="resources/images/RoswellTextileLogoBlack.png" alt="roswell" class="roswell-icon">
+                    <h3>Inline Air Permeability Inspection System</h3>
+                    <p>
+                        For my final-year Capstone project, I collaborated with a multidisciplinary team of two
+                        mechanical and two software engineers.
+                        We partnered with Roswell Textiles, an industry leader in nonwoven technologies, to develop an
+                        inline air permeability inspection system prototype.
+                        This system enhanced their existing inspection method—which only tested small samples—by
+                        enabling continuous testing throughout production.
+                        This allowed Roswell Textiles to provide clients with comprehensive data on textile rolls,
+                        ensuring optimal performance in critical applications like medical equipment and face masks.
+                        <br><br>
+
+                        Our team successfully designed and built the prototype (pictured in the top right).
+                        The software architecture used a Raspberry Pi to read sensor data and transmit it to an Azure
+                        Function, which stored the information in a CosmosDB database.
+                        The Raspberry Pi also enabled real-time data streaming to a GUI via WebSockets, as shown in the
+                        video. The images show the Raspberry Pi with a custom circuit board and the CAD design of the
+                        prototype. <br><br>
+
+                        Working on this project was a refreshing change of pace, going into the warehouse to manufacture
+                        the system was an awesome challenge.
+                        It served as an excellent culmination of my engineering journey.
+                    </p>
+                </div>
+
+                <a class="btn btn-ghost" href="https://nick9lee.github.io/CapstoneDesignFair/">additional info</a>
+            </div>
+
+            <div class="col span-1-of-2">
+                <img src="resources/images/CapstoneCompilation.png" alt="" class="capstone-compilation">
+                <video controls autoplay class="capstone-ui-vid" width="500" height="400"
+                    src="resources/images/CapstoneUI-video-short.mov"></video>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <img src="resources/images/plus15logo.png" alt="pic of plus 15 icon" class="app-icons">
+                    <h3>Plus 15</h3>
+                    <p>iOS application built in Swift to help Calgarians navigate 16km of indoor hallways covering
+                        downtown Calgary. This app utilizes APIs from Calgary Open Data to help users explore downtown
+                        while staying warm and discover nearby lunch spots.</p>
+                </div>
+
+                <a class="btn btn-ghost" href="https://github.com/nick9lee/Plus15Placeholder">view code</a>
+            </div>
+
+            <div class="col span-1-of-2">
+                <video controls autoplay class="plus15-demo-vid" width="200" height="400"
+                    src="resources/images/Plus15DemoVid.MP4"></video>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <img src="resources/images/iconSearchAlgoVisualizer.png" alt="pic of currencyconverter icon"
+                        class="app-icons">
+                    <h3>Search Algorithm Visualizer</h3>
+                    <p>iOS application built in Swift to visualize Breadth First Search, Depth First Search, and A*
+                        pathfinding algorithms. Users can tap cells to modify an adjacency matrix, then run the chosen
+                        algorithm to see it traverse the grid in real-time. Visited cells are colored as the algorithm
+                        executes, providing an interactive way to understand how these algorithms work. Feel free to
+                        clone the repo and explore!</p>
+                </div>
+
+                <a class="btn btn-ghost" href="https://github.com/nick9lee/SearchAlgoVisualizerV2">view code</a>
+            </div>
+
+            <div class="col span-1-of-2">
+                <video controls autoplay class="search-algo-vid" width="200" height="400"
+                    src="resources/images/SearchAlgoDemo.mov"></video>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <h3>3D EEG Data Visualizer</h3>
+                    <h5>NeuroNexus 2020 (Hackathon)</h5>
+                    <p>Over 2 months, our team of 7 created a real-time 3D EEG data visualizer. The concept was provided
+                        by Dr. Emma Towlson, but the design and implementation were entirely up to us. I focused on the
+                        3D visualization component using the three.js library. A highlight of this project was spending
+                        time at the Alberta Children's Hospital, where I learned to operate EEG equipment and collected
+                        real brain activity data for testing our visualizer.</p>
+                </div>
+
+                <a class="btn btn-ghost" href="https://github.com/braedyn-au/DynamicNetworkVisualization">view code</a>
+            </div>
+
+            <div class="col span-1-of-2">
+                <video controls autoplay class="neuro-nexus-demo-vid" width="500" height="400"
+                    src="resources/images/neuroNexusdemo.mov"></video>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <img src="resources/images/iconProgrammerEyes.png" alt="pic of programmer eyes icon"
+                        class="app-icons">
+                    <h3>Programmer Eyes 202020</h3>
+                    <p>WatchOS application written in Swift designed for programmers and anyone who uses a computer all
+                        day. This app reminds users to follow the 20-20-20 rule: every 20 minutes, look at least 20 feet
+                        away for 20 seconds to reduce eye strain.</p>
+                </div>
+
+                <a class="btn btn-ghost" href="https://github.com/nick9lee/ProgrammerEyes">view code</a>
+            </div>
+
+            <div class="col span-1-of-2">
+                <img src="resources/images/ProgrammerEyesV2.png" alt="pic of programmer eyes in watch"
+                    class="programmerEyes-screen">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <h3>Student Registration System</h3>
+                    <p>A Java application that emulates a student registration system. Features include enrolling in
+                        classes stored in a MySQL database, searching for classes, disenrolling from classes, and
+                        viewing class information such as enrollment numbers. The program uses client-server
+                        architecture and is multithreaded to accommodate multiple concurrent users.</p>
+                </div>
+
+                <a class="btn btn-ghost" href="https://github.com/nick9lee/StudentRegistrationSystemV2">view code</a>
+
+            </div>
+            <div class="col span-1-of-2">
+                <img src="resources/images/studentRegistration.png" alt="pic of student registration system"
+                    class="studentRegistration-screen">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col span-1-of-2 project-des-box">
+                <div class="project-description">
+                    <h3>Tic Tac Toe</h3>
+                    <p>A text-based tic-tac-toe game featuring 4 different play modes: human vs. human, against a random
+                        AI, against a defensive AI that blocks opponent moves, or against a strategic AI that actively
+                        pursues victory while defending against threats.</p>
+                </div>
+
+                <a class="btn btn-ghost" href="https://github.com/nick9lee/TicTacToe">view code</a>
+
+            </div>
+            <div class="col span-1-of-2">
+                <img src="resources/images/smaller-tictactoe.PNG" alt="pic of tictactoe in console"
+                    class="tictactoe-screen">
+            </div>
+        </div>
+    </section>
+
+
+    <a id="contacts"></a>
+    <section class="contacts-and-links js--contacts">
+        <div class="row">
+            <h2>Contacts and Links</h2>
+        </div>
+        <div class="row">
+            <ul>
+                <li>
+                    <div class="linkedin">
+                        <a href="https://www.linkedin.com/in/nick-lee-a75980139/" target="_blank"><i
+                                class="ion-social-linkedin-outline"></i></a>
+                    </div>
+                </li>
+                <li>
+                    <div class="email">
+                        <a href="mailto:nicholas9lee@gmail.com" target="_blank"><i class="ion-ios-email"></i></a>
+                    </div>
+                </li>
+                <li>
+                    <div class="github">
+                        <a href="https://github.com/nick9lee" target="_blank"><i class="ion-social-github"></i></a>
+                    </div>
+                </li>
+                <li>
+                    <div class="resume">
+                        <a href="https://nick9lee.github.io/resources/resumes/Resume_NicholasLee_July2026.pdf"
+                            target="_blank"><i class="ion-document-text"></i></a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="row">
+            <div class="col span-1-of-2">
+                <p></p>
+            </div>
+            <div class="col span-1-of-4">
+
+            </div>
+            <div class="col span-1-of-4">
+                <p class="right-message">Updated January 2026</p>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="resources/js/script.js"></script>
+    <script src="vendors/js/jquery.waypoints.min.js"></script>
+</body>
+
 </html>
