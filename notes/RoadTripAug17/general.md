@@ -133,6 +133,7 @@ Best visited **1–2 hours before low tide** — check [Surfline tide chart](htt
 ---
 
 ### Day 1 — Ecola State Park (Cannon Beach)
+
 | Trail | Distance | Difficulty | Why |
 |-------|----------|------------|-----|
 | [Ecola Point to Indian Beach](https://www.google.com/maps/place/Ecola+State+Park,+OR) | 3 mi round trip | Easy–Moderate | Coastal cliffs, Sitka spruce forest, ocean views the whole way |
@@ -142,6 +143,7 @@ Best visited **1–2 hours before low tide** — check [Surfline tide chart](htt
 **Time budget:** 1–2 hrs in the late afternoon after arriving
 
 ### Day 2 — Cape Perpetua (en route to Dunes)
+
 | Trail | Distance | Difficulty | Why |
 |-------|----------|------------|-----|
 | [Captain Cook Trail + tide pools](https://www.google.com/maps/place/Cape+Perpetua+Scenic+Area,+OR) | 0.6 mi | Easy | See Thor's Well and Spouting Horn at mid-high tide |
@@ -151,7 +153,9 @@ Best visited **1–2 hours before low tide** — check [Surfline tide chart](htt
 **Time budget:** 30–60 min quick stop, pairs well with the drive south
 
 ### Day 3 — Samuel Boardman Corridor + Redwoods
+
 **Samuel Boardman** (en route, southern OR coast):
+
 | Trail | Distance | Difficulty | Why |
 |-------|----------|------------|-----|
 | [Natural Bridges Viewpoint](https://www.google.com/maps/place/Natural+Bridges+Viewpoint,+OR) | 0.5 mi | Easy | Sea arches, dramatic cliffs — Oregon's best coastal viewpoint |
@@ -159,6 +163,7 @@ Best visited **1–2 hours before low tide** — check [Surfline tide chart](htt
 | Cape Ferrelo Trail | 1.2 mi | Easy | Expansive meadow, views both north and south along the coast |
 
 **Redwoods** (afternoon):
+
 | Trail | Distance | Difficulty | Why |
 |-------|----------|------------|-----|
 | [Stout Memorial Grove](https://www.google.com/maps/place/Stout+Memorial+Grove,+CA) | 0.5 mi loop | Easy | Flat walk among the biggest old-growth trees |
@@ -169,6 +174,7 @@ Best visited **1–2 hours before low tide** — check [Surfline tide chart](htt
 **Time budget:** 1 hr at Boardman stops + 2–4 hrs at Redwoods
 
 ### Day 4 — Crater Lake
+
 | Trail | Distance | Difficulty | Why |
 |-------|----------|------------|-----|
 | [Cleetwood Cove Trail](https://www.google.com/maps/place/Cleetwood+Cove+Trail,+OR) | 2.2 mi round trip | Moderate (steep, 700 ft drop) | Only trail to the lake shore — you can swim in Crater Lake! |
@@ -181,6 +187,7 @@ Best visited **1–2 hours before low tide** — check [Surfline tide chart](htt
 **Time budget:** 1–2 hrs for a single hike
 
 ### Day 5 — Columbia River Gorge / Portland
+
 | Trail | Distance | Difficulty | Why |
 |-------|----------|------------|-----|
 | [Multnomah Falls Trail (to top)](https://www.google.com/maps/place/Multnomah+Falls,+OR) | 2.4 mi round trip | Moderate (700 ft gain) | Go past Benson Bridge to the top for views down the 620-ft falls |
@@ -238,73 +245,6 @@ North America's largest coastal sand dunes — 40 miles of coastline, dunes up t
 | Umpqua Hot Springs | Off Hwy 138 near Roseburg | 1 hr detour | Natural hot springs in the forest |
 | Silver Falls State Park | East of Salem | 45 min off I-5 | "Trail of Ten Falls" — 10 waterfalls on one loop |
 | Mt. St. Helens Viewpoint | Castle Rock, WA (I-5 exit 49) | 1 hr detour | Volcanic blast zone, Johnston Ridge Observatory |
-
----
-
-## Accommodation Plan
-
-### Night 1 — Mon Aug 17: Cannon Beach, OR
-
-| Option | Type | Est. Price/Night (2 guests) | Notes |
-|--------|------|----------------------------|-------|
-| [The Waves](https://www.booking.com/hotel/us/the-waves-motel.html) | Oceanfront motel | ~$150–200 | Beach access, kitchenette, central downtown |
-| [Cannon Beach Hotel](https://www.booking.com/hotel/us/cannon-beach-cannon-beach.html) | Boutique hotel | ~$180–250 | Walking distance to beach + town |
-| [Schooner's Cove Inn](https://www.booking.com/hotel/us/schooner-s-cove-inn.html) | Hotel | ~$200–280 | Ocean view balcony, fireplace, kitchenette |
-
-**With 10-15% Booking.com discount, budget ~$130–240/night**
-
-[Browse all Cannon Beach hotels on Booking.com](https://www.booking.com/city/us/cannon-beach.en-gb.html)
-
-### Night 2 — Tue Aug 18: Florence / Reedsport, OR (Oregon Dunes)
-
-| Option | Type | Est. Price/Night (2 guests) | Notes |
-|--------|------|----------------------------|-------|
-| [Driftwood Shores Resort](https://www.driftwoodshores.com/) | Beachfront hotel | ~$130–180 | Ocean views, pool, right on the beach |
-| [Old Town Inn](https://www.booking.com/city/us/florence-oregon.en-gb.html) | Budget motel | ~$80–120 | Clean, walkable to Old Town restaurants |
-| [Best Western Pier Point Inn](https://www.booking.com/hotel/us/best-western-pier-point-inn.html) | Mid-range | ~$110–150 | Riverfront, near dunes, pool + hot tub |
-| Economy Inn (Reedsport) | Budget | ~$70–100 | Basic, close to dune access |
-
-**With discount, budget ~$60–155/night**
-
-[Browse Florence hotels on Booking.com](https://www.booking.com/city/us/florence-oregon.en-gb.html) | [Reedsport](https://www.booking.com/city/us/reedsport.html)
-
-### Night 3 — Wed Aug 19: Crescent City, CA (Redwoods)
-
-| Option | Type | Est. Price/Night (2 guests) | Notes |
-|--------|------|----------------------------|-------|
-| [Lighthouse Inn](https://www.booking.com/hotel/us/lighthouse-inn-crescent-city.html) | 2.5-star hotel | ~$89–130 | 24hr desk, good reviews (8.6/10), free breakfast |
-| [Best Western Plus Northwoods Inn](https://www.booking.com/hotel/us/best-western-plus-northwoods-inn.html) | Hotel | ~$116–160 | Indoor pool + hot tub, 5 min to parks, breakfast buffet |
-| [Quality Inn & Suites Redwood Coast](https://www.booking.com/hotel/us/hotel-walton-st-crescent-city.html) | Hotel | ~$100–140 | Off Hwy 101, 3 mi from park HQ |
-| [Bayview Inn](https://www.booking.com/city/us/crescent-city.html) | 2.5-star | ~$62–90 | Budget option, jacuzzi tubs |
-
-**With discount, budget ~$55–135/night**
-
-[Browse all Crescent City hotels on Booking.com](https://www.booking.com/city/us/crescent-city.html)
-
-### Night 4 — Thu Aug 20: Portland, OR
-
-| Option | Type | Est. Price/Night (2 guests) | Notes |
-|--------|------|----------------------------|-------|
-| [McMenamins Kennedy School](https://www.booking.com/hotel/us/mcmenamins-kennedy-school.html) | Unique/quirky | ~$130–200 | Converted school — soaking pool, bars, movie theater |
-| [Hotel Eastlund](https://www.booking.com/city/us/portland.html) | Mid-range | ~$120–170 | East side, rooftop bar, city views |
-| [Hi Lo Hotel](https://www.booking.com/city/us/portland.html) | Boutique | ~$130–180 | Downtown, walkable to Pearl District |
-| Budget chains (I-5 corridor) | Various | ~$80–120 | Plenty of options outside downtown |
-
-**With discount, budget ~$70–170/night**
-
-[Browse all Portland hotels on Booking.com](https://www.booking.com/city/us/portland.html)
-
----
-
-## Budget Estimate (Accommodation Only)
-
-| Night | Location | Est. Range (after discount) |
-|-------|----------|----------------------------|
-| Aug 17 | Cannon Beach | $130–240 |
-| Aug 18 | Florence / Oregon Dunes | $60–155 |
-| Aug 19 | Crescent City | $55–135 |
-| Aug 20 | Portland | $70–170 |
-| **Total** | **4 nights** | **$315–700** |
 
 ---
 

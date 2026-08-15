@@ -1,4 +1,4 @@
 - [Home](/)
 - Notes
-  - [Unemployment Trip Ideas](UnemploymentTripIdeas/general.md)
   - [Road Trip Aug 17](RoadTripAug17/general.md)
+  - [Road Trip Accommodations](RoadTripAug17/accommodations.md)
