@@ -38,12 +38,9 @@
 |--------|------|----------------------------|-------|
 | [Beachside Inn](https://www.booking.com/hotel/us/beachside-inn-crescent-city.html) | Hotel | ~$180 | 1 king bed |
 | [Redwood National Park Room](https://www.booking.com/hotel/us/hong-mu-guo-jia-gong-yuan-de-fang-jian.html) | Budget | ~$125 | 2 twin beds |
-| [Lighthouse Inn](https://www.booking.com/hotel/us/lighthouse-inn-crescent-city.html) | 2.5-star hotel | ~$89–130 | 24hr desk, good reviews (8.6/10), free breakfast |
-| [Best Western Plus Northwoods Inn](https://www.booking.com/hotel/us/best-western-plus-northwoods-inn.html) | Hotel | ~$116–160 | Indoor pool + hot tub, 5 min to parks, breakfast buffet |
-| [Quality Inn & Suites Redwood Coast](https://www.booking.com/hotel/us/hotel-walton-st-crescent-city.html) | Hotel | ~$100–140 | Off Hwy 101, 3 mi from park HQ |
-| [Bayview Inn](https://www.booking.com/city/us/crescent-city.html) | 2.5-star | ~$62–90 | Budget option, jacuzzi tubs |
+| [Lighthouse Inn](https://www.booking.com/hotel/us/lighthouse-inn-crescent-city.html) | 2.5-star hotel | ~$223 | 2 queen beds, 24hr desk, good reviews (8.6/10), free breakfast |
 
-**With discount, budget ~$55–135/night**
+**With discount, budget ~$76–155/night**
 
 [Browse all Crescent City hotels on Booking.com](https://www.booking.com/city/us/crescent-city.html)
 
@@ -56,7 +53,6 @@
 | [Executive Lodge](https://www.booking.com/hotel/us/executive-lodge-portland.html) | Budget | ~$96 | 1 queen bed |
 | [Motel 6 Portland Southeast](https://www.booking.com/hotel/us/motel6-portland-southeast.html) | Budget | ~$125 | 1 king bed |
 | [University Place Hotel](https://www.booking.com/hotel/us/university-place-and-conference-center.html) | Mid-range | ~$139 | 2 full beds, paid parking ($13/night) |
-| [McMenamins Kennedy School](https://www.booking.com/hotel/us/mcmenamins-kennedy-school.html) | Unique/quirky | ~$130–200 | Converted school — soaking pool, bars, movie theater |
 
 **With discount, budget ~$82–170/night**
 

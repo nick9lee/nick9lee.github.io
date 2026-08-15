@@ -37,6 +37,7 @@
 - **Route:** I-5 south from Seattle → Portland area → US-26 west to coast
 - **Arrive Cannon Beach:** Early-mid afternoon (~1–2 PM)
 - **Afternoon/Evening:** Walk the beach, see Haystack Rock, Ecola State Park viewpoint, dinner in town
+- **Tide pools:** Mon evening low tide is 10:41 PM (1.5 ft), sunset 8:23 PM — explore [Haystack Rock](https://www.google.com/maps/place/Haystack+Rock,+Cannon+Beach,+OR) tide pools ~9:30–10 PM in the twilight if you're up for it (sea stars, anemones, puffins nesting). Best window on the trip.
 - **Note:** Cannon Beach is a quick-hit — beautiful for a sunset walk and dinner, not a full-day spot
 
 **Drive:** ~8–9 hrs total (Van → Seattle: 2.5 hrs, Seattle → Cannon Beach: 4.5 hrs) + stops
@@ -46,6 +47,7 @@
 - **Morning:** Quick last look at Cannon Beach, grab coffee, depart by ~8–9 AM
 - **Route:** US-101 south along the Oregon Coast
 - **Possible stops en route:**
+  - [Nehalem Bay](https://www.google.com/maps/place/Nehalem+Bay,+OR) (~20 min south of Cannon Beach) — scenic bay, quick stop/photo
   - Tillamook Creamery (~1 hr south) — cheese tasting, ice cream
   - Cape Perpetua / Thor's Well (if tide is right)
 - **Arrive Florence/Reedsport area:** Early afternoon
@@ -66,6 +68,7 @@
   - Stout Memorial Grove (Jedediah Smith) — easy flat walk among giants
   - Howland Hill Road (unpaved scenic drive through old growth)
   - Lady Bird Johnson Grove Trail (1.5 mi loop, elevated grove)
+  - [Tall Trees Grove](https://www.google.com/maps/place/Tall+Trees+Grove,+CA) (4 mi round trip, requires free permit from visitor center, rough access road ~30 min south of Crescent City) — home to some of the tallest trees on Earth
   - Fern Canyon (if time — otherworldly fern-covered canyon walls)
 
 **Drive:** ~4.5–5 hrs (Florence to Crescent City) + stops
@@ -103,34 +106,7 @@
 
 ---
 
-## Tide Pools (along the route)
-
-Best visited **1–2 hours before low tide** — check [Surfline tide chart](https://www.surfline.com/tide-charts/cannon-beach/5842041f4e65fad6a77089b8) for your dates.
-
-### Tide Schedule (Cannon Beach area, Aug 17–19, 2026)
-
-| Date | Low Tides | High Tides | Best Tide Pool Window |
-|------|-----------|------------|----------------------|
-| **Mon Aug 17** | 9:46 AM (1.7 ft), 10:41 PM (1.5 ft) | 3:51 AM (7.5 ft), 4:09 PM (8.7 ft) | **~8:30–10 AM** or evening after 9:30 PM |
-| **Tue Aug 18** | 10:18 AM (2.6 ft), 11:38 PM (1.7 ft) | 4:43 AM (6.6 ft), 4:46 PM (8.5 ft) | ~9–10:30 AM (decent, not great) |
-| **Wed Aug 19** | 10:52 AM (3.5 ft) | 5:46 AM (5.8 ft), 5:27 PM (8.2 ft) | Tides aren't ideal this day — focus on Redwoods |
-
-**Verdict:** Your best tide pool window is **Monday morning (Aug 17)** around 8:30–10 AM — but you'll be driving through Washington then. The evening low on Mon (10:41 PM at 1.5 ft) could work for a twilight explore after dinner since sunset is 8:23 PM. By Tue/Wed the tides are higher and less ideal.
-
-**Recommendation:** Hit Haystack Rock or Indian Beach on **Monday evening around 9:30–10 PM** (it'll still be light enough just after sunset, tide drops to 1.5 ft). This is your best shot for good pools during the trip.
-
-| Spot | Where (Day) | Why |
-|------|-------------|-----|
-| [Haystack Rock](https://www.google.com/maps/place/Haystack+Rock,+Cannon+Beach,+OR) | Cannon Beach (Day 1) | The classic — walk right up at low tide. Sea stars, anemones, urchins, mussels. Also tufted puffins nesting in summer! |
-| [Indian Beach (Ecola State Park)](https://www.google.com/maps/place/Indian+Beach,+Ecola+State+Park,+OR) | Cannon Beach (Day 1) | South end of the beach. Less crowded than Haystack Rock, mussels, small sculpins, sea urchins |
-| [Ecola Point](https://www.google.com/maps/place/Ecola+Point,+OR) | Cannon Beach (Day 1) | North end of Crescent Beach below the viewpoint — best intertidal area near Cannon Beach |
-| [Yaquina Head Outstanding Natural Area](https://www.google.com/maps/place/Yaquina+Head+Outstanding+Natural+Area,+OR) | Newport area (Day 2, if stopping) | Cobble Beach — large flat rocks loaded with pools. $7/vehicle. One of the coast's best |
-| [Cape Perpetua tide pools](https://www.google.com/maps/place/Cape+Perpetua+Scenic+Area,+OR) | Near Florence (Day 2) | Thor's Well + Captain Cook Trail — rocky shelf with pools and spouting horn at mid-high tide |
-| [Harris Beach State Park](https://www.google.com/maps/place/Harris+Beach+State+Park,+OR) | Brookings (Day 3, en route) | Rocky outcrops with tide pools, sea stacks offshore |
-
-**Pro tip:** Negative tides (shown as minus numbers on tide charts) are the absolute best — the lower the tide, the more exposed and the more critters you'll see.
-
----
+## Hiking Picks (by day)
 
 ### Day 1 — Ecola State Park (Cannon Beach)
 
@@ -170,6 +146,7 @@ Best visited **1–2 hours before low tide** — check [Surfline tide chart](htt
 | [Boy Scout Tree Trail](https://www.google.com/maps/place/Boy+Scout+Tree+Trail,+CA) | 5.5 mi round trip | Moderate | Deep into the old growth, ends at Fern Falls — THE hike if you only do one |
 | [Lady Bird Johnson Grove](https://www.google.com/maps/place/Lady+Bird+Johnson+Grove,+CA) | 1.5 mi loop | Easy | Elevated grove, interpretive trail |
 | [Fern Canyon Loop](https://www.google.com/maps/place/Fern+Canyon,+CA) | 1 mi loop | Easy | 50-ft fern-covered canyon walls, Jurassic Park filming location |
+| [Tall Trees Grove](https://www.google.com/maps/place/Tall+Trees+Grove,+CA) | 4 mi round trip | Moderate | Some of the tallest trees on Earth. Free permit required from visitor center, rough access road |
 
 **Time budget:** 1 hr at Boardman stops + 2–4 hrs at Redwoods
 
@@ -267,9 +244,9 @@ North America's largest coastal sand dunes — 40 miles of coastline, dunes up t
 - [ ] Book ATV/UTV rental at Oregon Dunes (Steve's or Spinreel — reserve ahead for Aug)
 - [ ] Check border wait times closer to date (use CBP app or [BorderWait.com](https://www.borderwait.com))
 - [ ] Look into Fern Canyon reservation/parking pass
+- [ ] Get free Tall Trees Grove permit from visitor center (day-of, limited daily permits)
 - [ ] Check if Multnomah Falls requires timed-entry permit in Aug 2026
 - [ ] Plan food stops (Pike Place breakfast, Tillamook Cheese, Portland food carts)
-- [ ] ~~Confirm tide schedule for Haystack Rock~~ ✅ Done — best window is Mon Aug 17 evening ~9:30–10 PM (1.5 ft low tide, sunset 8:23 PM)
-- [ ] Check [tide charts](https://www.surfline.com/tide-charts/cannon-beach/5842041f4e65fad6a77089b8) again closer to date for any updates
+- [ ] Check [Surfline tide chart](https://www.surfline.com/tide-charts/cannon-beach/5842041f4e65fad6a77089b8) closer to date to confirm Mon evening low tide
 - [ ] Download offline maps for spotty-reception coastal sections
 - [ ] Decide Portland morning activity (Forest Park hike vs. Washington Park gardens)
