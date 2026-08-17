@@ -1,138 +1,194 @@
-
-/*larger tablets to 1200px -- widths small than 1140px*/
-@media only screen and (max-width: 1200px){
-    .hero-text-box{
-        width: 100%;
-        padding: 0 2%;
+/*larger tablets to 1200px -- widths smaller than 1140px*/
+@media only screen and (max-width: 1200px) {
+    .hero-text-box {
+        padding: 0 4%;
     }
-    .row{
-        padding: 0 2%;
+
+    .row {
+        padding: 0 4%;
+    }
+
+    .experience .row:has(.col),
+    .projects .row:has(.col) {
+        margin-left: 4%;
+        margin-right: 4%;
+        padding: 38px;
+        gap: 32px;
     }
 }
 
 /*small tablet to larger tablets -- 768 to 1023px*/
-@media only screen and (max-width: 1023px){
-    .app-screen{
-        width: 50%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+@media only screen and (max-width: 1023px) {
+    section {
+        padding: 76px 0;
     }
-    
-    h1{
-        font-size: 300%;
+
+    h2 {
+        margin-bottom: 44px;
     }
-    
-    section{
-        padding: 60px 0;
+
+    .experience .row:has(.col),
+    .projects .row:has(.col) {
+        padding: 32px;
+        gap: 26px;
     }
-    
+
+    .amazon-logo-second,
+    .amazon-logo {
+        width: 72%;
+    }
+
+    .arcurve-logo {
+        width: 86%;
+    }
 }
 
 /*small phones to small tablets -- 481 to 767px*/
-@media only screen and (max-width: 767px){
-    .app-screen{
-        width: 70%;
-        display: block;
-    margin-left: auto;
-    margin-right: auto;
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: 17px;
     }
-    
-    body{
-        font-size: 16px;
+
+    section {
+        padding: 56px 0;
     }
-    
-    h1{
-        font-size: 350%;
+
+    h2 {
+        margin-bottom: 36px;
     }
-    
-    section{
-        padding: 30px 0;
+
+    .hero-text-box {
+        padding: 0 6%;
     }
-    
-    .hero-text-box{
-        padding: 0 4%;
+
+    /* cards stack: copy first, media underneath */
+    .experience .row:has(.col),
+    .projects .row:has(.col) {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+        align-items: stretch;
+        padding: 26px 22px;
+        margin-bottom: 22px;
     }
-    
-    .col{
+
+    .experience .row:has(.col)>.col,
+    .projects .row:has(.col)>.col {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
         width: 100%;
     }
-    
-    .main-nav{
-        display: none;
+
+    /* no hover lift on touch devices */
+    .experience .row:has(.col):hover,
+    .projects .row:has(.col):hover {
+        -webkit-transform: none;
+        transform: none;
+        box-shadow: var(--shadow-sm);
     }
-    
+
+    .col {
+        width: 100%;
+    }
+
+    .amazon-logo-second,
+    .amazon-logo {
+        width: 56%;
+    }
+
+    .arcurve-logo {
+        width: 68%;
+    }
+
+    .tictactoe-screen,
+    .studentRegistration-screen,
+    .programmerEyes-screen {
+        width: 80%;
+    }
+
+    .contacts-and-links ul {
+        gap: 16px;
+    }
+
+    .contacts-and-links li>div a:link,
+    .contacts-and-links li>div a:visited {
+        width: 60px;
+        height: 60px;
+    }
+
+    footer .right-message {
+        text-align: center;
+    }
+
+    /*-------mobile nav--------*/
+    .main-nav {
+        display: none;
+        float: left;
+        width: 100%;
+        margin: 14px 0 10px;
+    }
+
     .mobile-nav-icon {
         display: inline-block;
     }
-    
-    
-    .main-nav{
-        float: left;
-        margin-top: 25px;
-        margin-left: 25px;
-    }
-    
-    .main-nav li{
+
+    .main-nav li {
         display: block;
+        margin-left: 0;
     }
-    
-    .main-nav a:link, main-nav a:visited{
+
+    .main-nav li a:link,
+    .main-nav li a:visited {
         display: block;
         border: 0;
-        padding; 10px 0;
-        font-size: 100%;
+        padding: 12px 0;
+        font-size: 1rem;
     }
-    
-    .sticky .main-nav{
+
+    .sticky .main-nav {
         margin-top: 10px;
     }
 
-    .sticky .main-nav li a:link, .sticky .main-nav li a:visited{
-        padding: 10px 0px;
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited {
+        padding: 12px 0;
     }
-    
-    .sticky .mobile-nav-icon i{
-        color: #555;
+
+    .sticky .mobile-nav-icon i {
+        color: var(--ink-soft);
     }
-    
-    .sticky .mobile-nav-icon{
+
+    .sticky .mobile-nav-icon {
         margin-top: 10px;
     }
 }
 
-/*samll phones -- 0 to 480px*/
-@media only screen and (max-width: 480px){
-    h1{
-        font-size: 200%;
+/*small phones -- 0 to 480px*/
+@media only screen and (max-width: 480px) {
+
+    .btn:link,
+    .btn:visited {
+        padding: 12px 26px;
     }
-    
-    .btn:link,.btn:visited{
-        margin-bottom: 2%;
+
+    .btn-full:link,
+    .btn-full:visited {
+        margin-right: 8px;
+        margin-bottom: 10px;
     }
-    
-    p{
-        padding: 0 3%;
+
+    .experience .row:has(.col),
+    .projects .row:has(.col) {
+        padding: 22px 18px;
+        border-radius: var(--radius-sm);
+    }
+
+    .plus15-demo-vid,
+    .search-algo-vid {
+        max-width: 200px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
