@@ -83,9 +83,15 @@
                     <p class="amazon-intern-des">
                         My internship went well enough that I came back full-time after graduating.
 
-                        <br><br>I worked on the Fees team, which sets and processes every fee across Amazon Stores. We
-                        owned the web application and configuration store behind $25B+ in fee changes a year, and that
-                        config store is what execution services read from at 2.5B+ requests a day.
+                        <br><br>I worked across two major systems. The first was Seller Event Aggregator, the ingestion
+                        and orchestration layer for every financially relevant event in Amazon Stores — think 3.5B+
+                        daily requests at 40k TPS globally. An event comes in, we collect the relevant data, then a
+                        rules-based config determines which downstream systems to call and which code paths to run
+                        before distributing into Accounting, Balance, and Seller Tool systems.
+
+                        <br><br>The second was the Fees platform — the configuration store and change management tools
+                        behind $25B+ in fee changes a year. That config store is what execution services read from at
+                        2.5B+ requests a day.
 
                         <br><br>My favourite project was a testing framework that let us try fee changes in a sandbox
                         before they hit production. I also spent a stretch as the only North American engineer on a new
