@@ -485,6 +485,12 @@ header {
 }
 
 /* company logos read better with a little breathing room */
+.asana-logo {
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+}
+
 .amazon-logo-second,
 .amazon-logo {
     width: 62%;
