@@ -45,18 +45,15 @@ whenever you've added up the fills.
 
 Gas is already split above as a straight expense. Separately, the trip put
 2,500 km on your Volkswagen, and that has a real cost in tires, maintenance
-and depreciation. Three reasonable ways to price it:
+and depreciation. Two reasonable ways to price it:
 
 | Basis | Rate | Trip total | Nick's half |
 |-------|------|-----------|-------------|
 | Maintenance, repairs and tires only — [AAA's figure is 9.68 cents/mile](https://living.acg.aaa.com/auto/how-much-to-budget-for-car-repairs) | ~$0.10/mi | ~$150 | ~$75 |
 | **The above plus depreciation** — [AAA's 2025 study](https://newsroom.aaa.com/2025/09/aaa-new-vehicle-costs-drop-to-11577/) averages ~$4,334/yr, adjusted down since a 2022 model has taken its steepest hit already | **~$0.20/mi** | **~$310** | **~$155** |
-| Full government mileage rate less fuel — [CRA's 2026 rate is $0.73/km](https://t2inc.ca/en/blog/cra-mileage-rate-per-km-canada) | ~$0.57/mi | ~$885 | ~$440 |
 
-I went with the middle one, **$155**. The bottom row is a business
-reimbursement rate that folds in insurance and financing you'd be paying
-regardless of this trip, so it felt like the wrong yardstick. Happy to move up
-or down if you see it differently.
+I went with the second one, **$155**, since it covers the depreciation side and
+not just the consumables. Happy to move up or down if you see it differently.
 
 ---
 
