@@ -1,4 +1,5 @@
 - [Home](/)
-- Notes
-  - [Road Trip Aug 17](RoadTripAug17/general.md)
-  - [Road Trip Accommodations](RoadTripAug17/accommodations.md)
+- Road Trip Aug 17
+  - [Itinerary](RoadTripAug17/general.md)
+  - [Accommodations](RoadTripAug17/accommodations.md)
+  - [Expenses & Settlement](RoadTripAug17/expenses.md)
