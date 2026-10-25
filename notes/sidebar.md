@@ -1,4 +1,6 @@
 - [Home](/)
+- Plans
+  - [Mike's Schedule](Plans/mike-schedule.md)
 - Road Trip Aug 17
   - [Itinerary](RoadTripAug17/general.md)
   - [Accommodations](RoadTripAug17/accommodations.md)
